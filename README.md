@@ -9,8 +9,7 @@
 > Me after fixing one bug and creating five more:
 
 <p align="center">
-<img src="https://media.tenor.com/iq4oeA2FrXYAAAAM/spiderman-computer.gif" width="300" alt="Spider-Man typing furiously on a computer"></p>
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZzbjJ3ejdlNDB0bW1lYmFydDJoNWpuZTlhbHV4dzdnbWViemNueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cz9CpQSxAUwout0AdP/giphy.gif" width="300" alt="Nicolas Cage as Spider-Man Noir in the live-action TV show">
 ---
 
 ## 🧠 About This Project
