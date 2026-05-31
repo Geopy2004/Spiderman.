@@ -1,8 +1,6 @@
 # 🕷️ Spider-Man Meme README
 
-<p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp2eW5kNG85MXJjZHhmYndka3lwNXUzbmlyMHB3dDJhNzV4NHNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UhOpDfoQJ0QsktkSYB/giphy.gif" width="300" alt="Nicolas Cage as Spider-Man Noir running across the top of a moving 1930s bus"></p>
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp2eW5kNG85MXJjZHhmYndka3lwNXUzbmlyMHB3dDJhNzV4NHNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UhOpDfoQJ0QsktkSYB/giphy.gif" width="300" alt="Spider-Man Noir doing a dramatic flip off a 1930s car on set">
 # 🚀 Welcome to My Project
 
 > Me after fixing one bug and creating five more:
