@@ -9,8 +9,7 @@
 > Me after fixing one bug and creating five more:
 
 <p align="center">
-  <img src="https://media.tenor.com/qkK4L3d0d9AAAAAM/spiderman-computer.gif" width="300">
-</p>
+<img src="https://media.tenor.com/iq4oeA2FrXYAAAAM/spiderman-computer.gif" width="300" alt="Spider-Man typing furiously on a computer"></p>
 
 ---
 
